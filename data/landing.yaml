@@ -20,26 +20,26 @@ hero:
   image:
     path: "images" # path to image under configured assets directory. default 'images'
     filename: "Bild1.png" # filename of your hero image (including file extension)
-    alt: "Lotus Docs Screenshot" # Optional but recommended
+    alt: "Das VS-Framework 3.0" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
     icon: rocket_launch
-    btnText: "Get Started"
+    btnText: "Zur Doku"
     url: "/docs"
-  cta2Button:
-    icon: construction
-    btnText: "In Development"
-    url: "https://github.com/colinwilson/lotusdocs"
+  #cta2Button:
+   # icon: construction
+   # btnText: "In Development"
+   # url: "https://github.com/colinwilson/lotusdocs"
 
-  info: "**Open Source** MIT Licensed."
+  # info: "**Open Source** MIT Licensed."
 
 # Features Grid
 features:
   enable: true
 
-  title: Why choose Lotus Docs?
+  title: Warum VS-Scrum?
   subtitle: Lotus Docs is a simple yet highly configurable Hugo theme. With Lotus Docs' default configuration you can deploy and publish documentation in a matter of minutes.
 
   items:
@@ -83,11 +83,11 @@ features:
 image_compare:
   enable: true
 
-  title: Customise The Lotus Docs Appearance
-  subtitle: Much of Lotus Docs' appearance can be customised. Dark mode is optional (enabled by default) and you can choose a Google font that suites you via a single config setting.
+  title: Weiterentwicklungen des Frameworks
+#  subtitle: Much of Lotus Docs' appearance can be customised. Dark mode is optional (enabled by default) and you can choose a Google font that suites you via a single config setting.
 
   items:
-    - title: Dark Mode
+    - title: VS-Scrum 1.0 zu VS-Scrum 3.0
       config: {
         startingPoint: 50,
         addCircle: true,
@@ -103,7 +103,7 @@ image_compare:
       imageBefore: "lotusdocs_dark.webp"
       imageAfter: "lotusdocs_light.webp"
 
-    - title: Custom Fonts
+    - title: VS-Scrum 2.0 zu VS-Scrum 3.0
       config: {
         controlColor: "#3C4257",
         startingPoint: 38,
@@ -120,7 +120,7 @@ image_compare:
       imageBefore: "lotusdocs_poppins.webp"
       imageAfter: "lotusdocs_comic_neue_.webp"
 
-    - title: Accent Color
+    - title: VS-Scrum 1.0 zu VS-Scrum 3.0
       config: {
         startingPoint: 25,
         addCircle: true,
