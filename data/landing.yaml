@@ -19,10 +19,10 @@ hero:
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
-    filename: "Bild1.png" # filename of your hero image (including file extension)
+    filename: "VS-Scrum-Framework v3-v4.drawio.png" # filename of your hero image (including file extension)
     alt: "Das VS-Framework 3.0" # Optional but recommended
-    boxShadow: true # default 'false' (excludes .svg images)
-    rounded: true # round the image corners? default 'false' (excludes .svg images)
+    boxShadow: false # default 'false' (excludes .svg images)
+    rounded: false # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
     icon: rocket_launch
@@ -87,54 +87,56 @@ image_compare:
 #  subtitle: Much of Lotus Docs' appearance can be customised. Dark mode is optional (enabled by default) and you can choose a Google font that suites you via a single config setting.
 
   items:
-    - title: VS-Scrum 1.0 zu VS-Scrum 3.0
+    - title: VS-Scrum 3.0 zu VS-Scrum 1.0
       config: {
+        controlColor: "#3C4257",
         startingPoint: 50,
         addCircle: true,
         addCircleBlur: false,
         showLabels: true,
         labelOptions: {
-          before: 'Dark',
-          after: 'Light',
+          before: '3.0',
+          after: '1.0',
           onHover: false
         }
       }
-      imagePath: "images/screenshots"
-      imageBefore: "lotusdocs_dark.webp"
-      imageAfter: "lotusdocs_light.webp"
+      imagePath: "images/"
+      imageBefore: "VS-Scrum-Framework v3-v4.drawio.png"
+      imageAfter: "VS-Scrum-Framework-Main.drawio.png"
 
-    - title: VS-Scrum 2.0 zu VS-Scrum 3.0
+    - title: VS-Scrum 3.0 zu VS-Scrum 2.0
       config: {
         controlColor: "#3C4257",
-        startingPoint: 38,
-        addCircle: true,
-        addCircleBlur: false,
-        showLabels: true,
-        labelOptions: {
-          before: 'Poppins',
-          after: 'Comic Neue',
-          onHover: false
-        }
-      }
-      imagePath: "images/screenshots"
-      imageBefore: "lotusdocs_poppins.webp"
-      imageAfter: "lotusdocs_comic_neue_.webp"
-
-    - title: VS-Scrum 1.0 zu VS-Scrum 3.0
-      config: {
-        startingPoint: 25,
+        startingPoint: 50,
         addCircle: true,
         addCircleBlur: true,
         showLabels: true,
         labelOptions: {
-          before: 'Blue',
-          after: 'Emerald',
+          before: '3.0',
+          after: '2.0',
           onHover: false
         }
       }
-      imagePath: "images/screenshots"
-      imageBefore: "lotusdocs_blue.webp"
-      imageAfter: "lotusdocs_emerald.webp"
+      imagePath: "images/"
+      imageBefore: "VS-Scrum-Framework v3-v4.drawio.png"
+      imageAfter: "VS-Scrum-Framework v2-v3.drawio.png"
+
+    - title: VS-Scrum 2.0 zu VS-Scrum 1.0
+      config: {
+        controlColor: "#3C4257",
+        startingPoint: 50,
+        addCircle: true,
+        addCircleBlur: true,
+        showLabels: true,
+        labelOptions: {
+          before: '2.0',
+          after: '1.0',
+          onHover: false
+        }
+      }
+      imagePath: "images/"
+      imageBefore: "VS-Scrum-Framework v2-v3.drawio.png"
+      imageAfter: "VS-Scrum-Framework-Main.drawio.png"
 
 
 
