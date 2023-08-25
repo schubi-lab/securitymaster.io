@@ -9,7 +9,7 @@ hero:
   #   soft: true # boolean
 
   title: "VS-Scrum Framework"
-  subtitle: A lightweight, **modern documentation** theme for Hugo. Easily customised for building **fast**, **secure**, and **SEO-friendly** documentation sites.
+  subtitle: Ein Framework für die **Integration von IT-Sicherheitsanforderungen in agile Scrum-Prozesse.**
 
   #titleLogo:
   #   path: "images/logos"
@@ -26,8 +26,12 @@ hero:
 
   ctaButton:
     icon: rocket_launch
-    btnText: "Zur Doku"
+    btnText: "Dokumentation"
     url: "/docs"
+  cta2Button:
+    icon: connect_without_contact
+    btnText: "Austausch"
+    url: "https://github.com/schubi-lab/securitymaster.io/discussions"
   #cta2Button:
    # icon: construction
    # btnText: "In Development"
@@ -40,44 +44,44 @@ features:
   enable: true
 
   title: Warum VS-Scrum?
-  subtitle: Lotus Docs is a simple yet highly configurable Hugo theme. With Lotus Docs' default configuration you can deploy and publish documentation in a matter of minutes.
+  subtitle: Das VS-Scrum Framework entstand ursprünglich auf Basis wissenschaftlicher Literatur. Durch Feedback aus Fokusgruppeninterviews wurde es verfeinert und hat mittlerweile die Version 3.0 erreicht.
 
   items:
-    - title: Fast
-      icon: speed
-      description: 4 x 100's score on Google Lighthouse by default. Lotus Docs removes unused CSS, prefetches asset links, and lazy loads content images.
-
-    - title: SEO Friendly
-      icon: trending_up
-      description: Data is automatically structured to be SEO friendly. Includes Meta tags, Opengraph, and Twitter cards. Choose the settings that best suit you.
-
-    - title: Secure by default
+    - title: Sicherheit
       icon: lock
-      description: Lotus Docs' default configuration scores A+ on Mozilla Observatory. You can update the default Security Headers to suit your requirements.
+      description: Bei VS-Scrum steht die sichere Anwendungsentwicklung im Vordergrund.
 
-    - title: Optional Features
-      icon: settings
-      description: Many Lotus Docs features are configurable via optional parameters. Require DocSearch for your site? Then enable it via a single setting.
+    - title: Organisationsweit
+      icon: apartment
+      description: VS-Scrum ist nicht nur auf eine Projekt, sondern die ganze Organisation ausgelegt.
 
-    - title: Deploy to Vercel
-      icon: change_history
-      description: Deploy to Vercel in seconds. Vercel Functions, Vercel Redirects/Rewrites, and Vercel Headers are all configurable for an enriched experience.
+    - title: Security Backlog
+      icon: house_with_shield
+      description: Der organisationsweite Security Backlog enthält Validierungsmaßnahmen und IT-Sicherheitsanforderungen.
 
-    - title: Dark Mode
-      icon: dark_mode
-      description: "Prefer not to be blasted by the sun while reading? Switch to a low-light UI with the click of a button. Modify colour variables to match your branding."
+    - title: Security Master
+      icon: shield_person
+      description: Der Security Master unterstützt als Experte bei Fragen zur IT-Sicherheit.
 
-    - title: Search by DocSearch
-      icon: search
-      description: Search your docs with DocSearch. A powerful, efficient and accessible search solution built on Algolia Crawler & Autocomplete. TBC.
+    - title: S-Tags
+      icon: bookmark
+      description: Nutzung von S-Tags als Kennzeichen für Sicherheitsanforderungen.
 
-    - title: Multilingual Support
-      icon: translate
-      description: Lotus Docs supports Hugo's Multilingual Mode. Create documentation in multiple languages side by side with i18n support.
+    # - title: Dark Mode
+    #   icon: dark_mode
+    #   description: "Prefer not to be blasted by the sun while reading? Switch to a low-light UI with the click of a button. Modify colour variables to match your branding."
 
-    - title: Bootstrap v5
-      icon: palette
-      description: Built on Bootstrap 5, Lotus Docs allows for a familiar, flexible, and intuitive developer experience. Easily customise your site via SCSS variables and files.
+    # - title: Search by DocSearch
+    #   icon: search
+    #   description: Search your docs with DocSearch. A powerful, efficient and accessible search solution built on Algolia Crawler & Autocomplete. TBC.
+
+    # - title: Multilingual Support
+    #   icon: translate
+    #   description: Lotus Docs supports Hugo's Multilingual Mode. Create documentation in multiple languages side by side with i18n support.
+
+    # - title: Bootstrap v5
+    #   icon: palette
+    #   description: Built on Bootstrap 5, Lotus Docs allows for a familiar, flexible, and intuitive developer experience. Easily customise your site via SCSS variables and files.
 
 # Image compare
 image_compare:

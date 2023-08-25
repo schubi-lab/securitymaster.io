@@ -48,24 +48,25 @@ enableEmoji = true
         version = true # includes git commit info
 
     [params.social]
-        github = ""        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
-        twitter = ""       # YOUR_TWITTER_ID
+        github = "schubi-lab"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
+        twitter = "SchubiLab"       # YOUR_TWITTER_ID
         # instagram = "colinwilson"     # YOUR_INSTAGRAM_ID
         # rss = true                    # show rss icon with link
+        
 
     [params.docs] # Parameters for the /docs 'template'
-        title           = "Lotus Docs Example Site"           # default html title for documentation pages/sections
+        title           = "VS-Scrum"           # default html title for documentation pages/sections
 
-        # pathName        = "docs"                            # path name for documentation site | default "docs"
+        pathName        = "docs"                            # path name for documentation site | default "docs"
 
-        # themeColor      = "cyan"                            # (optional) - Set theme accent colour. Options include: blue (default), green, red, yellow, emerald, cardinal, magenta, cyan
+        # themeColor      = "brown"                            # (optional) - Set theme accent colour. Options include: blue (default), green, red, yellow, emerald, cardinal, magenta, cyan
 
         darkMode        = true                                # enable dark mode option? default false
 
         prism           = true                                # enable syntax highlighting via Prism
 
         # gitinfo
-        ghrepo          = "github.com/colinwilson/lotusdocs.dev"  # Git repository URL for your site
+        ghrepo          = "https://github.com/schubi-lab/securitymaster.io"  # Git repository URL for your site
         editPage        = true                                # enable 'Edit this page' feature - default false
         lastMod         = true                                # enable 'Last modified' date on pages - default false
         lastModRelative = true                                # format 'Last modified' time as relative - default true
@@ -133,10 +134,16 @@ enableEmoji = true
 
 [menu]
 [[menu.primary]]
-    name  = "Docs"
+    name  = "Dokumentation"
     url = "docs/"
     identifier = "docs"
     weight = 10
+
+[[menu.primary]]
+    name  = "Austausch"
+    url = "https://github.com/schubi-lab/securitymaster.io/discussions"
+    identifier = "Austausch"
+    weight = 20
 
 # [[menu.primary]]
 #     name  = "Showcase"

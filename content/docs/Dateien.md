@@ -3,12 +3,12 @@ weight = 100
 date = "2023-05-03T22:37:22+01:00"
 draft = false
 author = "Felix"
-title = "Overview"
+title = "Dateien"
 icon = "rocket_launch"
 toc = true
-description = "A quickstart guide to creating new content in Lotus Docs"
+description = "Diverse Dateien zum herunterladen (bspw. draw.io Vorlagen)."
 publishdate = "2023-05-03T22:37:22+01:00"
-tags = ["Beginners"]
+tags = ["Dateien"]
 +++
 
 ## Create New Content
