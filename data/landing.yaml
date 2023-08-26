@@ -19,7 +19,7 @@ hero:
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
-    filename: "VS-Scrum-Framework v3-v4.drawio.png" # filename of your hero image (including file extension)
+    filename: "VS-Scrum_Framework_V3.png" # filename of your hero image (including file extension)
     alt: "Das VS-Framework 3.0" # Optional but recommended
     boxShadow: false # default 'false' (excludes .svg images)
     rounded: false # round the image corners? default 'false' (excludes .svg images)
@@ -105,8 +105,8 @@ image_compare:
         }
       }
       imagePath: "images/"
-      imageBefore: "VS-Scrum-Framework v3-v4.drawio.png"
-      imageAfter: "VS-Scrum-Framework-Main.drawio.png"
+      imageBefore: "VS-Scrum_Framework_V3.png"
+      imageAfter: "VS-Scrum_Framework_V1.png"
 
     - title: VS-Scrum 3.0 zu VS-Scrum 2.0
       config: {
@@ -122,8 +122,8 @@ image_compare:
         }
       }
       imagePath: "images/"
-      imageBefore: "VS-Scrum-Framework v3-v4.drawio.png"
-      imageAfter: "VS-Scrum-Framework v2-v3.drawio.png"
+      imageBefore: "VS-Scrum_Framework_V3.png"
+      imageAfter: "VS-Scrum_Framework_V2.png"
 
     - title: VS-Scrum 2.0 zu VS-Scrum 1.0
       config: {
@@ -139,8 +139,8 @@ image_compare:
         }
       }
       imagePath: "images/"
-      imageBefore: "VS-Scrum-Framework v2-v3.drawio.png"
-      imageAfter: "VS-Scrum-Framework-Main.drawio.png"
+      imageBefore: "VS-Scrum_Framework_V2.png"
+      imageAfter: "VS-Scrum_Framework_V1.png"
 
 
 
