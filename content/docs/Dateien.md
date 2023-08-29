@@ -13,7 +13,7 @@ tags = ["Dateien"]
 
 ##### draw.io Vorlage
 Download:
-<a class="button primary big" href="/VS-Scrum_Framework_Versionen_1-3.drawio" download="VS-Scrum_Framework_Versionen_1-3.drawio" target="_blank" >VS-Scrum_Framework_Versionen_1-3.drawio</a>
+<a class="button primary big" href="/VS-Scrum_Framework_All_Versions.drawio" download="VS-Scrum_Framework_All_Versions.drawio" target="_blank" >VS-Scrum_Framework_All_Versions.drawio</a>
 <br>
 <br>
 <br>
