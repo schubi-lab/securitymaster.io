@@ -27,11 +27,11 @@ hero:
   ctaButton:
     icon: rocket_launch
     btnText: "Dokumentation"
-    url: "/docs"
+    url: "https://schubi-lab.github.io/securitymaster.io/docs/"
   cta2Button:
     icon: connect_without_contact
     btnText: "Austausch"
-    url: "https://github.com/schubi-lab/https://schubi-lab.github.io/securitymaster.io//discussions"
+    url: "https://github.com/schubi-lab/securitymaster.io/discussions"
   #cta2Button:
    # icon: construction
    # btnText: "In Development"

@@ -1,1 +1,1 @@
-https://schubi-lab.github.io/https://schubi-lab.github.io/securitymaster.io//
+https://schubi-lab.github.io/securitymaster.io/
