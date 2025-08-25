@@ -1,4 +1,4 @@
-baseURL = "https://schubi-lab.github.io/https://schubi-lab.github.io/securitymaster.io//"
+baseURL = "https://schubi-lab.github.io/securitymaster.io/"
 languageCode = "en-GB"
 contentDir = "content"
 enableEmoji = true
