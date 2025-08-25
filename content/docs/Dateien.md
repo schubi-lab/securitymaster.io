@@ -23,7 +23,7 @@ Download:
 
 Download:
 <a class="button primary big" href="/VS-Scrum_Framework_V3.png" download="VS-Scrum_Framework_V3.png" target="_blank" >VS-Scrum_Framework_V3.png</a>
-![VS-Scrum Framework 3.0](https://raw.githubusercontent.com/schubi-lab/securitymaster.io/main/assets/images/VS-Scrum_Framework_V3.webp)
+![VS-Scrum Framework 3.0](https://raw.githubusercontent.com/schubi-lab/https://schubi-lab.github.io/securitymaster.io//main/assets/images/VS-Scrum_Framework_V3.webp)
 <br>
 <br>
 <br>
@@ -32,7 +32,7 @@ Download:
 
 Download:
 <a class="button primary big" href="/VS-Scrum_Framework_V2.png" download="VS-Scrum_Framework_V2.png" target="_blank" >VS-Scrum_Framework_V2.png</a>
-![VS-Scrum Framework 2.0](https://raw.githubusercontent.com/schubi-lab/securitymaster.io/main/assets/images/VS-Scrum_Framework_V2.webp)
+![VS-Scrum Framework 2.0](https://raw.githubusercontent.com/schubi-lab/https://schubi-lab.github.io/securitymaster.io//main/assets/images/VS-Scrum_Framework_V2.webp)
 <br>
 <br>
 <br>
@@ -41,4 +41,4 @@ Download:
 
 Download:
 <a class="button primary big" href="/VS-Scrum_Framework_V1.png" download="VS-Scrum_Framework_V1.png" target="_blank" >VS-Scrum_Framework_V1.png</a>
-![VS-Scrum Framework 1.0](https://raw.githubusercontent.com/schubi-lab/securitymaster.io/main/assets/images/VS-Scrum_Framework_V1.webp)
+![VS-Scrum Framework 1.0](https://raw.githubusercontent.com/schubi-lab/https://schubi-lab.github.io/securitymaster.io//main/assets/images/VS-Scrum_Framework_V1.webp)

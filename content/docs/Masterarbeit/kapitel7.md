@@ -128,7 +128,7 @@ Organisationen, Scrum sicher zu implementieren.
 Auf der wissenschaftlichen Seite werden die Erkenntnisse und Ergebnisse
 dieser Arbeit aktiv in die Wissenschaft zurückgeführt. Dies entspricht
 dem zentralen Prinzip des Stringenz-Zyklus im Rahmen der DSR-Methode.
-Hierfür wurde unter anderem die Webseite [https://securitymaster.io](https://securitymaster.io)
+Hierfür wurde unter anderem die Webseite [https://https://schubi-lab.github.io/securitymaster.io/](https://https://schubi-lab.github.io/securitymaster.io/)
 erstellt. Diese ermöglicht es Interessierten, Zugriff auf die Arbeit,
 zugehörige Grafiken und weitere Ressourcen zu erhalten. Sie können diese
 Materialien herunterladen, für eigene Zwecke anpassen und nutzen. Über

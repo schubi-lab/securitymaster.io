@@ -27,6 +27,6 @@ weight: 100
 > Scrum-Projekten bietet.
 >
 > Die Forschungsergebnisse dieser Arbeit werden durch die Webseite
-> ‚[https://securitymaster.io](https://securitymaster.io)' in die Praxis und Wissenschaft
+> ‚[https://https://schubi-lab.github.io/securitymaster.io/](https://https://schubi-lab.github.io/securitymaster.io/)' in die Praxis und Wissenschaft
 > zurückgegeben. Darüber hinaus dient sie als Ort für einen
 > fortwährenden Austausch über das VS-Scrum Framework.

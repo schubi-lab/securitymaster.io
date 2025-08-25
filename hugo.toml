@@ -1,4 +1,4 @@
-baseURL = "securitymaster.io"
+baseURL = "https://schubi-lab.github.io/https://schubi-lab.github.io/securitymaster.io//"
 languageCode = "en-GB"
 contentDir = "content"
 enableEmoji = true
@@ -44,7 +44,7 @@ enableEmoji = true
   mono_font       = "Fira Code" # Default is System font
 
     [params.footer]
-        copyright = "© :YEAR: securitymaster.io"
+        copyright = "© :YEAR: https://schubi-lab.github.io/securitymaster.io/"
         version = true # includes git commit info
 
     [params.social]
@@ -66,7 +66,7 @@ enableEmoji = true
         prism           = true                                # enable syntax highlighting via Prism
 
         # gitinfo
-        ghrepo          = "https://github.com/schubi-lab/securitymaster.io"  # Git repository URL for your site
+        ghrepo          = "https://github.com/schubi-lab/https://schubi-lab.github.io/securitymaster.io/"  # Git repository URL for your site
         editPage        = true                                # enable 'Edit this page' feature - default false
         lastMod         = true                                # enable 'Last modified' date on pages - default false
         lastModRelative = true                                # format 'Last modified' time as relative - default true
@@ -141,7 +141,7 @@ enableEmoji = true
 
 [[menu.primary]]
     name  = "Austausch"
-    url = "https://github.com/schubi-lab/securitymaster.io/discussions"
+    url = "https://github.com/schubi-lab/https://schubi-lab.github.io/securitymaster.io//discussions"
     identifier = "Austausch"
     weight = 20
 
